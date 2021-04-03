@@ -1,0 +1,26 @@
+{
+    "number": "F001-000123",
+    "date": "29/08/2020",
+    "customer": "ALPHABET INC.",
+    "products":
+    [
+        {
+            "code": "GOOGL",
+            "name": "Google",
+            "price": 99.99,
+            "quantity": 1
+        },
+        {
+            "code": "DEEP",
+            "name": "Deepmind",
+            "price": 88.88,
+            "quantity": 1
+        },
+        {
+            "code": "WAY",
+            "name": "Waymo",
+            "price": 77.77,
+            "quantity": 3
+        }
+    ]
+}
